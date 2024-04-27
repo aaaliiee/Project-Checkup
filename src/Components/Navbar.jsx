@@ -30,7 +30,6 @@ const Navbar = () => {
                     <li className='p-4 border-b border-green-400 hover:scale-105 duration-300'>Equipments</li>
                     <li className='p-4 border-b border-green-400 hover:scale-105 duration-300'>About</li>
                     <li className='p-4 border-b border-green-400 hover:scale-105 duration-300'>Contact</li> 
-                    <li className='p-4 border-b border-green-400 hover:scale-105 duration-300'>Muhammad ali </li> 
                 </ul>
             </div>
         </div>
